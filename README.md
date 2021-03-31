@@ -4,7 +4,7 @@ This is a sample react-native project to demonstrate functionality of new [react
 
 ## Preview
 
-![RNUUID 720](https://user-images.githubusercontent.com/1857263/113222454-ef460000-923b-11eb-9e0d-9a3f347b3c23.gif)
+<img src="https://user-images.githubusercontent.com/1857263/113222454-ef460000-923b-11eb-9e0d-9a3f347b3c23.gif" alt="Demo" width="200"/>
 
 ## Getting started
 
